@@ -1,0 +1,58 @@
+#root {
+  viewport-fill: black;
+  
+  
+}
+
+#background {
+  fill: black;
+  height: 100%;
+  width: 100%;
+  x: 0;
+  y: 0;
+}
+
+.metric-container {
+  fill: white;
+  
+  font-size: 50;
+  font-family: Colfax-Medium;
+}
+
+#metric0 {
+  font-family: Colfax-Medium;
+  font-size: 60;
+  
+  text-length: 32;
+  text-anchor: end;
+  x: 80%;
+  y: 10%+30;
+}
+
+#metric1 {
+  text-length: 32;
+  text-anchor: end;
+  x: 60%;
+  y: 40%+2;
+}
+
+#metric2 {
+  text-length: 32;
+  text-anchor: end;
+  x: 80%;
+  y: 60%+0;
+}
+
+#metric3 {
+  text-length: 32;
+  text-anchor: end;
+  x: 80%;
+  y: 78%+0;
+}
+
+#metric4 {
+  text-length: 32;
+  text-anchor: end;
+  x: 80%;
+  y: 96%+0;
+}
